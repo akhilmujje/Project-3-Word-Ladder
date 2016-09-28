@@ -27,14 +27,14 @@ public class Node<String> {
 		this.parent = parent;
 	}
 	
-	public void addChild(String word){
+	public void addChild(String word, Node<String> parent){
 		Node<String> child = new Node<String>(word);
-		child.setParent(this);
+		child.setParent(parent);
 		this.children.add(child);
 	}
 	
 	public void addChild(Node<String> child) {
-        child.setParent(this);
+        //child.setParent(this);
         this.children.add(child);
     }
 	
