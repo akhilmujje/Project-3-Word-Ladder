@@ -1,6 +1,16 @@
 /* WORD LADDER Main.java
  * EE422C Project 3 submission by
  * Replace <...> with your actual data.
+<<<<<<< HEAD
+ * Devisriram Akhil Mujje
+ * dam4335
+ * 16470
+ * Robert Bolt
+ * rob329
+ * 16470
+ * Slip days used: <0>
+ * Git URL:
+=======
  * <Robert Bolt>
  * <rob329>
  * <Student1 5-digit Unique No.>
@@ -9,6 +19,7 @@
  * <Student2 5-digit Unique No.>
  * Slip days used: <0>
  * Git URL: 
+>>>>>>> akhil_test
  * Fall 2016
  */
 
